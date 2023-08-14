@@ -6,7 +6,7 @@ Este proyecto es una calculadora implementada en JavaScript, HTML y CSS. La calc
 
 A continuación, se muestran algunas capturas de pantalla de la calculadora:
 
-![Captura de Pantalla 1](![image](https://github.com/MarlonMontenegro/calculator_Js/assets/103525183/242e1bc7-c46a-429b-888c-6920721a29dd)
+![Captura de Pantalla 1](![image](https://github.com/MarlonMontenegro/calculator_Js/assets/103525183/d3aafc36-258d-45ce-9234-1a4eb32002fe)
 )
 
 ## Características
